@@ -19,6 +19,7 @@ ul {
     padding: 0;
 }
 
+/*estilo de ls parrafos */
 p {
     position: relative;
     min-height: 40px;
@@ -30,7 +31,7 @@ p {
     border-style: solid;
 }
 
-
+/*Estilo del boton eliminar*/
 .eliminar {
 
     text-align: center;
@@ -46,6 +47,7 @@ p {
 
 }
 
+/* estilos del boton crear nota*/
 .boton {
     background-color: #3498db;
     color: #fff;
@@ -63,6 +65,7 @@ p {
     border-radius: 10px;
 }
 
+/*estilo de las nuevsa notas*/
 .newNote {
     min-height: 40px;
     width: 260px;
